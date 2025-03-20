@@ -31,6 +31,8 @@
     </a>
 </p>
 
+![post-apocalyptic_hacker](https://github.com/Keyitdev/screenshots/blob/master/sddm-astronaut-theme/master/post-apocalyptic_hacker.png?raw=true)| ![Catppuccin street](https://github.com/XshubhamG/sddm-astronaut-theme/blob/master/Previews/catppuccin-street-sddm.png?raw=true)
+
 ## Important headings
 
 - [Make a readme](https://www.makeareadme.com/)
