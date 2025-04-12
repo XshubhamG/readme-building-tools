@@ -7,9 +7,13 @@
 
 ## Images
 
-![Section border](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png)
-![Catppuccin footer](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true)
-[100+ wallpapers](https://github.com/Matt-FTW/dotfiles/blob/main/.config/hypr/theme/walls/.github/README.md)
+- ![Section border](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png)
+
+- ![Catppuccin footer](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true)
+
+- [100+ wallpapers](https://github.com/Matt-FTW/dotfiles/blob/main/.config/hypr/theme/walls/.github/README.md)
+
+- [Catppuccin mocha wallpapers](https://github.com/orangci/walls-catppuccin-mocha)
 
 ## Badges
 
